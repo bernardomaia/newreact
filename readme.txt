@@ -1,1 +1,1 @@
-Para executar o app são necessários os modulos do node e o twitter bootstrap 4.
+Para executar o app são necessários os módulos do node e o twitter bootstrap 4.
